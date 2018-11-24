@@ -17,6 +17,7 @@
 
 <span class="f22rem blue">22rem blueテキスト</span>
 <span class="f22rem blue b">22rem blue 太字テキスト</span>
+
 <h1>見出し1</h1>
 <h2>見出し2</h2>
 <h3>見出し3</h3>
@@ -71,62 +72,61 @@
  	<li>見出し2</li>
  	<li>見出し3</li>
 </ul>
-<code>ul class="toc"</code>
-
 <span class="red">赤文字</span>
-<code>span class="red"</code>
 <span class="blue">青文字</span>
-<code>span class="blue"</code>
 <div class="box-gray">グレーボックス</div>
-<code>div class="box-gray"</code>
 <div class="box-yellow">ピンクボックス</div>
-<code>div class="box-yellow"</code>
 <div class="box-pink">イエローボックス</div>
-<code>div class="box-pink"</code>
+
 <div class="c_box">クリアボックス</div>
-<code>div class="c_box"</code>
 <div class="c_box intitle">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
 </div>
-<script src="https://gist-it.appspot.com/https://github.com/cooltak/tabicard/blob/master/box?footer=no"></script>
-
 <div class="c_box intitle blue_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
-
-
 </div>
 <div class="c_box intitle red_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
-
 </div>
 <div class="c_box intitle yellow_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
-
 </div>
 <div class="c_box intitle green_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
-
 </div>
 <div class="c_box intitle pink_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
-
 </div>
 <div class="c_box intitle glay_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
+</div>
 クリアボックス
-
 </div>
 <div class="c_box intitle black_box">
-<div class="box_title"><span class="">ボックスタイトル</span></div>
-クリアボックス
-
+<div class="box_title">
+	<span class="">ボックスタイトル</span>
 </div>
-<p class="info-box info">インフォーボックス</p>
-<p class="info-box point">インフォーボックス</p>
-<p class="info-box warn">インフォーボックス</p>
+クリアボックス
+</div>
+<p class="info-box info">インフォボックス</p>
+<p class="info-box point">インフォボックス</p>
+<p class="info-box warn">インフォボックス</p>
