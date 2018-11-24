@@ -12,11 +12,11 @@
 <span class="f28rem">28remテキスト</span>
 <span class="f30rem">30remテキスト</span>
 
-<span class="f20rem red">20rem redテキスト</span>
-<span class="f20rem red b">20rem red 太字テキスト</span>
+<p class="f20rem red">20rem redテキスト</p>
+<p class="f20rem red b">20rem red 太字テキスト</p>
 
-<span class="f22rem blue">22rem blueテキスト</span>
-<span class="f22rem blue b">22rem blue 太字テキスト</span>
+<p class="f22rem blue">22rem blueテキスト</p>
+<p class="f22rem blue b">22rem blue 太字テキスト</p>
 
 <h1>見出し1</h1>
 <h2>見出し2</h2>
